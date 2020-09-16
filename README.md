@@ -236,8 +236,6 @@
 |229| [How to check installed extensions in CLI and web for PHP?](#How-to-check-installed-extensions-in-CLI-and-web-for-PHP) |
 |230| [How to create multiple where clause in eloquent?](#How-to-create-multiple-where-clause-in-eloquent) |
 
-Name aggregates methods of query builder
-How will you register service provider
 
 
  
